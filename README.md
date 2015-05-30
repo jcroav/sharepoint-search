@@ -1,2 +1,2 @@
 # sharepoint-search
-Polymer Componente to use SharePoint Search Service 
+Polymer Component to use SharePoint Search Service 
